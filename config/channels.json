@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "id": "snrt-al-aoula",
+      "name": "Al Aoula",
+      "nameAr": "الأولى",
+      "country": "MA",
+      "language": "ar",
+      "group": "morocco",
+      "source": "SNRT",
+      "sourceUrl": "https://www.snrt.ma/",
+      "enabled": false
+    },
+    {
+      "id": "snrt-arryadia",
+      "name": "Arryadia",
+      "nameAr": "الرياضية",
+      "country": "MA",
+      "language": "ar",
+      "group": "sports",
+      "source": "SNRT",
+      "sourceUrl": "https://www.snrt.ma/",
+      "enabled": false
+    },
+    {
+      "id": "2m-maroc",
+      "name": "2M",
+      "nameAr": "دوزيم",
+      "country": "MA",
+      "language": "ar",
+      "group": "morocco",
+      "source": "2M",
+      "sourceUrl": "https://2m.ma/",
+      "enabled": false
+    },
+    {
+      "id": "medi1tv",
+      "name": "Medi1 TV",
+      "nameAr": "ميدي 1 تي في",
+      "country": "MA",
+      "language": "ar",
+      "group": "news",
+      "source": "Medi1",
+      "sourceUrl": "https://www.medi1tv.com/",
+      "enabled": false
+    },
+    {
+      "id": "alkass-1",
+      "name": "Al Kass",
+      "nameAr": "قنوات الكأس",
+      "country": "QA",
+      "language": "ar",
+      "group": "sports",
+      "source": "Al Kass",
+      "sourceUrl": "https://www.alkass.net/",
+      "enabled": false
+    },
+    {
+      "id": "mbc1",
+      "name": "MBC 1",
+      "nameAr": "إم بي سي 1",
+      "country": "SA",
+      "language": "ar",
+      "group": "entertainment",
+      "source": "MBC / Shahid",
+      "sourceUrl": "https://shahid.mbc.net/",
+      "enabled": false
+    },
+    {
+      "id": "rotana-cinema",
+      "name": "Rotana Cinema",
+      "nameAr": "روتانا سينما",
+      "country": "SA",
+      "language": "ar",
+      "group": "entertainment",
+      "source": "Rotana",
+      "sourceUrl": "https://rotana.net/",
+      "enabled": false
+    },
+    {
+      "id": "aljazeera-arabic",
+      "name": "Al Jazeera Arabic",
+      "nameAr": "الجزيرة",
+      "country": "QA",
+      "language": "ar",
+      "group": "news",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.net/",
+      "enabled": false
+    }
+  ]
+}
